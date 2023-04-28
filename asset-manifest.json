@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/movie_app/static/js/main.bcef0219.js",
+    "main.css": "/movie_app/static/css/main.c450d265.css",
+    "main.js": "/movie_app/static/js/main.bf8323d1.js",
+    "static/media/VinaSans-Regular.ttf": "/movie_app/static/media/VinaSans-Regular.01df7bda3d4882f108b7.ttf",
+    "static/media/BebasNeue-Regular.ttf": "/movie_app/static/media/BebasNeue-Regular.2bd598112a71b3600ffc.ttf",
     "index.html": "/movie_app/index.html",
-    "main.bcef0219.js.map": "/movie_app/static/js/main.bcef0219.js.map"
+    "main.c450d265.css.map": "/movie_app/static/css/main.c450d265.css.map",
+    "main.bf8323d1.js.map": "/movie_app/static/js/main.bf8323d1.js.map"
   },
   "entrypoints": [
-    "static/js/main.bcef0219.js"
+    "static/css/main.c450d265.css",
+    "static/js/main.bf8323d1.js"
   ]
 }
